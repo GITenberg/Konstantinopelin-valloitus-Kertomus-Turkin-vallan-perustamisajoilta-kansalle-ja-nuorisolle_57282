@@ -1,11 +1,16 @@
 _repo: Konstantinopelin-valloitus-Kertomus-Turkin-vallan-perustamisajoilta-kansalle-ja-nuorisolle_57282
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Horn, W. O. von
     gutenberg_agent_id: '49294'
     url: http://www.gutenberg.org/2009/agents/49294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57282#Konstantinopelin-valloitus-Kertomus-Turkin-vallan-perustamisajoilta-kansalle-ja-nuorisolle
 gutenberg_issued: '2018-06-06'
 gutenberg_type: Text
 identifiers:
